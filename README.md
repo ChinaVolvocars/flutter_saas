@@ -7,7 +7,7 @@ A new Flutter application.
 <table id='wechat_group1'>
  <tr>
         <td id='group_1'>
-            <img src='https://github.com/ChinaVolvocars/jd_maotai_seckill/blob/master/wx.png?size=140'>
+            <img src='https://gitee.com/AtlantisSpeed/image/blob/master/weichat/wx10.png?size=140'>
             <h4 align='center'>群1已经满了</h4>
         </td>
         <td id='group_2'>
