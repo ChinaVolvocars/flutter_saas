@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-<img src="https://i.loli.net/2021/01/06/ZvT8RpYnciIjB6m.jpg" height="20%" width="20%" >
+<img src="https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/x2.jpg" height="20%" width="20%" >
 
 
 
