@@ -2,7 +2,8 @@
 
 A new Flutter application.
 
-![x2.jpg](https://i.loli.net/2021/01/06/ZvT8RpYnciIjB6m.jpg)
+<img src="https://i.loli.net/2021/01/06/ZvT8RpYnciIjB6m.jpg" height="20%" width="20%" >
+
 
 
 ```cmd
