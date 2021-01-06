@@ -2,63 +2,7 @@
 
 A new Flutter application.
 
-## 微信群
-
-<table id='wechat_group1'>
- <tr>
-        <td id='group_1'>
-          
-        </td>
-        <td id='group_2'>
-          
-        </td>
-        <td id='group_3'>
-         
-        </td>
-        <td id='group_4'>
-          
-        </td>
-    </tr>
-</table>
-
-## 微信群
-
-<table id='wechat_group2'>
- 	<tr>
-        <td id='group_5'>
-           
-        </td>
-        <td id='group_6'>
-           
-        </td>
-        <td id='group_7'>
-          
-        </td>
-        <td id='group_8'>
-          
-        </td>
-	</tr>
-	   
-</table>
-
-
-<table id='wechat_group3'>
- 	<tr>
-        <td id='group_9'>
-           
-        </td>
-        <td id='group_10'>
-           
-        </td>
-        <td id='group_7'>
-          
-        </td>
-        <td id='group_8'>
-           
-        </td>
-	</tr>
-	   
-</table>
+![x2.jpg](https://i.loli.net/2021/01/06/ZvT8RpYnciIjB6m.jpg)
 
 
 ```cmd
