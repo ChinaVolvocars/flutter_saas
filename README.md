@@ -2,8 +2,6 @@
 
 A new Flutter application.
 
-<img src="https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/x2.jpg" height="20%" width="20%" >
-
 
 
 ```cmd
