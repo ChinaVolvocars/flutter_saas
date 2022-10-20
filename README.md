@@ -27,8 +27,6 @@ https://fir.im/tlnz
 
 二维码
 
-<img src='https://github.com/ChinaVolvocars/flutter_saas/blob/master/github/apk.png?size=140'>
-
 
 ## 页面展示
 
